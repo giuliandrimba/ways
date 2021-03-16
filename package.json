@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "happens": "0.6.0",
-    "ways-addressbar": "^0.2.1"
+    "ways-addressbar": "git+https://github.com/giuliandrimba/ways-addressbar.git#hotfix/first-popstate-change"
   },
   "devDependencies": {
     "chai": "^2.2.0",
