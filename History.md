@@ -1,3 +1,14 @@
+0.5.0 / 2015-04-25
+===================
+ * Adding `url:change` event
+ * Providing `pathname` even if `addressbar` plugin is not enabled
+
+0.4.0 / 2015-04-24
+===================
+ * Refactoring everything
+ * Adding Meteor support
+ * Adding Bower support
+
 0.3.4 / 2014-01-23
 ===================
  * Fixing optional splat params parser
